@@ -1,3 +1,6 @@
+local scriptURL = "https://raw.githubusercontent.com/<your-username>/<repository-name>/main/slap_battles.lua"
+loadstring(game:HttpGet(scriptURL))()
+
 local hitboxSizeIncrease = Vector3.new(5, 5, 5) -- Adjust the size increase
 local duration = 5 -- How long the hitbox stays enlarged
 
