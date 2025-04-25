@@ -1,5 +1,5 @@
 local scriptURL = "https://raw.githubusercontent.com/<your-username>/<repository-name>/main/slap_battles.lua"
-loadstring(game:HttpGet(scriptURL))()
+loadstring(game:HttpGet(https://github.com/verycoolboy-afk/SlapBattlesScript/blob/main/slap_battles.lua))()
 
 
 local scriptURL = "https://raw.githubusercontent.com/<fallenangel1>/<slapbattlesscript>/main/slap_battles.lua"
